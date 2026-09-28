@@ -60,8 +60,7 @@
 
 <td align="center" width="42%">
 
-<img src="https://media.tenor.com/S61VCO73mOAAAAAi/cat-hacker.gif" width="220"/>
-
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="450"/>
 </td>
 
 </tr>
@@ -294,52 +293,79 @@ Generative AI + Computer Vision
 ## 🌟 Leadership • Community
 
 <p align="center">
-Building Technology • Leading Communities • Publishing Research
+  <i>Building Technology • Leading Communities • Publishing Research</i>
 </p>
 
 <table>
 <tr>
+
 <td width="55%">
 
-### 🎓 Vishwakarma Institute of Technology
+<!-- ======================================================= -->
+<!--          PART 4 — LEADERSHIP • CONTACT • FOOTER         -->
+<!-- ======================================================= -->
 
-#### 👨‍🏫 Class Representative
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,50:2563EB,100:38BDF8&height=4"/>
+</p>
 
-Representing the IT Division and coordinating academic activities between students and faculty.
+<h1 align="center">🌟 Leadership • Community • Hackathon Journey</h1>
+
+<p align="center">
+  Building Technology • Leading Communities • Publishing Research • Creating Impact
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649456-0d1b63d8-57c0-4d70-9e34-ef46ef1f32d.gif" width="900"/>
+</p>
 
 ---
 
-#### 🤝 Alumni Relations Coordinator
+# 👨‍💼 Leadership & Community
 
-**Training & Placement Cell**
+<table>
+<tr>
+<td width="50%">
 
-- Alumni Networking
-- Placement Initiatives
-- Industry Engagement
+## 🎓 Vishwakarma Institute of Technology
+
+### 👨‍🏫 Class Representative
+
+Representing the Information Technology Division and coordinating academic activities between faculty and students.
 
 ---
 
-#### 🌐 Core Committee Member
+### 🤝 Alumni Relations Coordinator
 
-**Abhivriddhi Committee**
+Training & Placement Cell
+
+- Alumni networking
+- Placement activities
+- Industry engagement
+- Student outreach initiatives
+
+---
+
+### 🌐 Core Committee Member
+
+Abhivriddhi Committee
 
 - Corporate Outreach
 - Event Coordination
 - Technical Community Activities
+- Student Development Initiatives
 
 </td>
 
-<td align="center" width="45%">
+<td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw5NzdscXU3YmJvdXNuYjBrN3l1a3lyajF5dnlkM3MwdzAwMHFkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320"/>
 
 </td>
-
 </tr>
 </table>
 
 ---
-
 ## 📬 Let's Connect
 
 <p align="center">
@@ -364,11 +390,11 @@ Representing the IT Division and coordinating academic activities between studen
 
 ---
 
-## 💙 Quote I Live By
+# 💙 Quote I Live By
 
 <div align="center">
 
-> ### ✨ *"Building intelligent systems that solve real-world problems through AI, research, and software engineering."*
+## ✨ "Building intelligent systems that solve real-world problems through AI, research, and software engineering."
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
