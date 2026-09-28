@@ -321,69 +321,58 @@ Generative AI + Computer Vision
 
 ---
 
-# 👨‍💼 Leadership & Community
+---
+
+## 🌟 Leadership • Community
+
+<p align="center">
+  <i>Building Technology • Leading Communities • Publishing Research</i>
+</p>
 
 <table>
 <tr>
-<td width="50%">
 
-## 🎓 Vishwakarma Institute of Technology
+<td width="55%" valign="top">
 
-### 👨‍🏫 Class Representative
+### 🎓 Vishwakarma Institute of Technology
 
-Representing the Information Technology Division and coordinating academic activities between faculty and students.
-
----
-
-### 🤝 Alumni Relations Coordinator
-
-Training & Placement Cell
-
-- Alumni networking
-- Placement activities
-- Industry engagement
-- Student outreach initiatives
-
----
-
-### 🌐 Core Committee Member
-
-Abhivriddhi Committee
-
-- Corporate Outreach
-- Event Coordination
-- Technical Community Activities
-- Student Development Initiatives
+| **Role** | **Organization** |
+|-----------|------------------|
+| 👨‍🏫 **Class Representative** | Information Technology Department |
+| 🤝 **Alumni Relations Coordinator** | Training & Placement Cell |
+| 🌐 **Core Committee Member** | Abhivriddhi Committee |
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="45%" valign="middle">
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320"/>
+<img src="https://user-images.githubusercontent.com/74038190/216649456-0d1b63d8-57c0-4d70-9e34-ef46ef1f32d.gif" width="240"/>
 
 </td>
+
 </tr>
 </table>
 
 ---
+
 ## 📬 Let's Connect
 
 <p align="center">
 
 <a href="https://github.com/Piyush07Mishra">
-<img src="https://img.shields.io/badge/GitHub-Piyush07Mishra-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Piyush07Mishra-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/piyush-mishra07/">
-<img src="https://img.shields.io/badge/LinkedIn-Piyush_Mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Piyush_Mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:piyushjwalaprasadmishra@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Piyush_Mishra-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Piyush_Mishra-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://piyush-mishra.pm18072006.workers.dev/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
@@ -399,8 +388,6 @@ Abhivriddhi Committee
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
-
----
 
 ## 🌊 Thanks for Visiting My Profile
 
