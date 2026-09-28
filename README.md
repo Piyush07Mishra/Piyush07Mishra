@@ -60,7 +60,7 @@
 
 <td align="center" width="42%">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw5NzdscXU3YmJvdXNuYjBrN3l1a3lyajF5dnlkM3MwdzAwMHFkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="220"/>
+<img src="https://media.tenor.com/S61VCO73mOAAAAAi/cat-hacker.gif" width="220"/>
 
 </td>
 
