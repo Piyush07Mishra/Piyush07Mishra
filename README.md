@@ -66,7 +66,7 @@
 
 🎓 Third-Year Information Technology Student at **Vishwakarma Institute of Technology, Pune**
 
-🏆 **CGPA:** `9.82` | 🥇 Division Topper
+🏆 **CGPA:** `9.82` | 🥇 Department Topper
 
 📄 **2 IEEE International Research Publications**
 
@@ -243,7 +243,7 @@
 ### 🥇 Academic Excellence
 
 - CGPA **9.82**
-- Division Topper
+- Department Topper
 - Third-Year Information Technology Student
 
 ### 📄 Research
@@ -266,6 +266,7 @@
 - Top 50 — Internal Smart India Hackathon 2026
 - Mastercard Hackathon
 - CMR Hackfest Finalist
+- Flipkart Grid 8.0 finalist
 - Kleos 3.0
 - Multiple National AI Hackathons
 
@@ -288,7 +289,7 @@
 
 | 🎯 Milestone | 🚀 Details |
 |--------------|------------|
-| 🥇 Academic Excellence | **CGPA 9.82**, Division Topper at VIT Pune |
+| 🥇 Academic Excellence | **CGPA 9.82**, Department Topper at VIT Pune |
 | 📄 IEEE Research Author | Published AI & IoT research in IEEE Conferences |
 | 🚀 Smart India Hackathon | **Top 50 Teams** (ISIH 2026) |
 | 💻 National Hackathons | Mastercard • CMR Hackfest • Kleos 3.0 |
@@ -930,27 +931,7 @@ Practice Questions
 
 ---
 
-# 📚 DSA Learning Roadmap
 
-<div align="center">
-
-| ✅ Completed | 🚀 Exploring |
-|--------------|--------------|
-| Arrays | Dynamic Programming |
-| Strings | Graph Algorithms |
-| Linked List | Segment Trees |
-| Stack & Queue | Advanced Trees |
-| Binary Search | System Design |
-| Trees | AI Algorithms |
-| Sorting | Competitive Programming |
-
-</div>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,50:2563EB,100:38BDF8&height=3"/>
-</p>
 
 # 📈 GitHub Analytics Dashboard
 
@@ -984,63 +965,8 @@ Practice Questions
 
 ---
 
-# 🏅 GitHub Trophy Cabinet
 
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Piyush07Mishra&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Piyush07Mishra/Piyush07Mishra/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-### ⚙ GitHub Snake Animation Setup
-
-Create this workflow file:
-
-`.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Piyush07Mishra
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
 
 # 📊 Developer Activity Dashboard
 
