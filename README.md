@@ -38,26 +38,27 @@
 
 <table>
 <tr>
+
 <td width="58%">
 
-🎓 **Third-Year Information Technology Student** at **Vishwakarma Institute of Technology (VIT Pune)**
+🎓 Third-Year Information Technology Student at **VIT Pune**
 
-🏆 **CGPA:** **9.82** • Division Topper
+🏆 **CGPA:** **9.82** • Department Topper
 
-📄 **IEEE Research Author** — INCET 2025 & ICAFT 2025
+📄 IEEE Research Author (INCET 2025 & ICAFT 2025)
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, Full Stack Development, Generative AI, IoT & Computer Vision.**
+💡 Passionate about AI, ML, Full Stack Development, GenAI, IoT & Computer Vision.
 
 ### 🌱 Currently Exploring
 
 - 🤖 LLMs & RAG
-- 🧠 Multi-Agent AI Systems
-- ☁️ MLOps & AI Deployment
+- 🧠 Multi-Agent AI
+- ☁️ MLOps
 - ⚡ System Design
 
 </td>
 
-<td align="center">
+<td align="center" width="42%">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw5NzdscXU3YmJvdXNuYjBrN3l1a3lyajF5dnlkM3MwdzAwMHFkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="220"/>
 
@@ -65,8 +66,6 @@
 
 </tr>
 </table>
-
----
 
 ## 🛠 Tech Arsenal
 
